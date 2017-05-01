@@ -11,5 +11,10 @@
     "javascript"
   ],
   "author": "Adrian Kopczewski",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "fs-cheerio": "^2.0.1",
+    "glob": "^7.1.1"
+  }
 }
