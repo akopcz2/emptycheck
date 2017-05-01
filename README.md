@@ -1,5 +1,4 @@
-##Post Build Process Mobule to Check for and Eliminate Empty Elements
-
+##Post Build Process Module to check for empty elements and populate them with a non-breaking space.
 Run the module
 1) Specify your directory structure in the glob
 ```js
