@@ -1,0 +1,15 @@
+{
+  "name": "emptycheck",
+  "version": "1.0.0",
+  "description": "Check if an html element is empty ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheerio",
+    "javascript"
+  ],
+  "author": "Adrian Kopczewski",
+  "license": "MIT"
+}
