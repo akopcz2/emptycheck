@@ -1,10 +1,10 @@
 ##Post Build Process Module to check for empty elements and populate them with a non-breaking space.
-Run the module
-1) Specify your directory structure in the glob
+
+Specify your directory structure in the glob
 ```js
 glob("**/*.html"
 ```
-2) run
+To run
 ```js
 node index
 ```
