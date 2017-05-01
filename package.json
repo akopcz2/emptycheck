@@ -1,6 +1,6 @@
 {
   "name": "emptycheck",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if an html element is empty ",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
     "babel": "^6.23.0",
     "fs-cheerio": "^2.0.1",
     "glob": "^7.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/akopcz2/emptycheck"
   }
 }
